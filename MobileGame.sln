@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileGame.CSharp.Plugins", "MobileGame.CSharp.Plugins.csproj", "{C6A6C5EA-9117-FF9B-00A1-95D65BEB3E58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileGame.CSharp", "MobileGame.CSharp.csproj", "{3DA99924-5D70-7156-026E-948AC5B367B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileGame.CSharp.Editor", "MobileGame.CSharp.Editor.csproj", "{1889834F-A65E-5DB0-847C-B393C1483109}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6A6C5EA-9117-FF9B-00A1-95D65BEB3E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6A6C5EA-9117-FF9B-00A1-95D65BEB3E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6A6C5EA-9117-FF9B-00A1-95D65BEB3E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6A6C5EA-9117-FF9B-00A1-95D65BEB3E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DA99924-5D70-7156-026E-948AC5B367B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA99924-5D70-7156-026E-948AC5B367B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA99924-5D70-7156-026E-948AC5B367B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA99924-5D70-7156-026E-948AC5B367B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1889834F-A65E-5DB0-847C-B393C1483109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1889834F-A65E-5DB0-847C-B393C1483109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1889834F-A65E-5DB0-847C-B393C1483109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1889834F-A65E-5DB0-847C-B393C1483109}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
